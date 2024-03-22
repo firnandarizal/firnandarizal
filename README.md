@@ -12,6 +12,11 @@
 
 - ⚡ Fun fact **very interested and like to play games such as AAA games, FPS games, etc.**
 
+<br clear="both">
+
+<img src="https://github-readme-stats.vercel.app/api?username=firnandarizal&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/firnanda-rizal-oktafian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firnanda-rizal-oktafian" height="30" width="40" /></a>
@@ -25,14 +30,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firnandarizal&show_icons=true&locale=en&layout=compact" alt="firnandarizal" />
 
-###
-
-<br clear="both">
-
-<img src="https://github-readme-stats.vercel.app/api?username=firnandarizal&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-
-###
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firnandarizal&" alt="firnandarizal" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firnandarizal&" alt="firnandarizal" />
 
