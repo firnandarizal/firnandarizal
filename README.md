@@ -1,4 +1,3 @@
-# nanskyybio
 
 <h1 align="center">Hi 👋, I'm Firnanda Rizal Oktafian</h1>
 <h3 align="center">A passionate Flutter mobile developer from Indonesia</h3>
